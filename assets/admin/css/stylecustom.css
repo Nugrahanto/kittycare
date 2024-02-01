@@ -1,0 +1,20 @@
+.bg-def{
+	background-color: #868e96;
+}
+@media print {
+  #printPageButton {
+    display: none;
+  }
+}
+.ta{
+	height: 400px;
+}
+.card-img{
+	width: 100%;
+	margin: 0px auto;
+	text-align: center;
+}
+.card-img img{
+	width: 100%;
+	height: auto;
+}
