@@ -11,6 +11,10 @@ Introduction
 
 KittyCare is a web application built using PHP and the CodeIgniter 3 framework. It is designed to provide a platform for cat lovers to connect, share information about cat care, and find resources for their feline friends.
 
+.. image:: https://i.ibb.co/3kNcdbj/kittycare.jpg
+    :alt: KittyCare Logo
+    :align: right
+
 Features
 --------
 
